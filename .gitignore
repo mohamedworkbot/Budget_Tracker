@@ -1,0 +1,19 @@
+_MaCOSX
+.DS_Store
+.vscode
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.development
+.env.test
+.env.production
+.env.local
+.env.development.local
+.env.test.local
+Steps to follow.pdf 
+.node_modules
+package-lock.json
+THESIS_ABSTRACT.md
+node_modules
